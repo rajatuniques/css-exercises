@@ -1,0 +1,14 @@
+.robo{
+    background-color: hsl(0, 0%, 13%);
+    color: #ffffffd1
+}
+
+.frog{
+    background-color: rgb(226, 255, 108);
+}
+
+.robo,
+.frog{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
