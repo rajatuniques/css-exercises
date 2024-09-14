@@ -27,8 +27,13 @@ input {
 
 ul {
   list-style-type: none;
+  display: flex;
 }
 
 a {
   text-decoration: none;
+}
+
+.header {
+  display: flex;
 }
