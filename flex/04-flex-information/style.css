@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  padding-bottom: 32px;
 }
 
 .container {
