@@ -31,3 +31,8 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container .media-obj {
+  display: flex;
+  flex-flow: column wrap;
+}
