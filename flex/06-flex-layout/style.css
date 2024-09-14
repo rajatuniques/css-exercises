@@ -36,6 +36,14 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color: grey;
+}
+
+a:visited {
+  color: grey;
+}
+
 .header {
   display: flex;
 }
