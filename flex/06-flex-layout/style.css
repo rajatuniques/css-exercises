@@ -30,6 +30,7 @@ ul {
   display: flex;
   margin: 0px;
   padding: 0px;
+  gap: 16px;
 }
 
 a {
@@ -46,4 +47,6 @@ a:visited {
 
 .header {
   display: flex;
+  padding: 16px;
+  justify-content: space-between;
 }
