@@ -35,4 +35,5 @@ img {
 .container .media-obj {
   display: flex;
   flex-flow: column wrap;
+  align-items: center;
 }
