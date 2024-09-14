@@ -84,8 +84,13 @@ button.cancel {
   justify-content: space-between;
   font-weight: bold;
   font-size: 120%;
+  margin-bottom: 8px;
 }
 
 .modal .text-box {
+  text-align: left;
+}
 
+.text {
+  margin-bottom: 16px;
 }
