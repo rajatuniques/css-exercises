@@ -71,8 +71,14 @@ button.cancel {
 /* flexbox */
 .modal {
   display: flex;
+  padding: 16px;
 }
 
 .modal .icon {
   flex-shrink: 0;
+}
+
+.modal .header {
+  display: flex;
+  justify-content: space-between;
 }
