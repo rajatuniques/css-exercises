@@ -76,9 +76,16 @@ button.cancel {
 
 .modal .icon {
   flex-shrink: 0;
+  margin-right: 16px;
 }
 
 .modal .header {
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.modal .text-box {
+
 }
