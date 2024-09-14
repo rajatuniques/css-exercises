@@ -45,8 +45,14 @@ a:visited {
   color: grey;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   padding: 16px;
   justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
 }
