@@ -72,11 +72,11 @@ button.cancel {
 .modal {
   display: flex;
   padding: 16px;
+  gap: 16px;
 }
 
 .modal .icon {
   flex-shrink: 0;
-  margin-right: 16px;
 }
 
 .modal .header {
@@ -85,10 +85,7 @@ button.cancel {
   font-weight: bold;
   font-size: 120%;
   margin-bottom: 8px;
-}
-
-.modal .text-box {
-  text-align: left;
+  align-items: center;
 }
 
 .text {
