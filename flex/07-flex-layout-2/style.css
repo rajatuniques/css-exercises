@@ -26,7 +26,7 @@ body {
   background: royalblue;
   box-sizing: border-box;
   flex: 0 0 300px;
-  
+  padding: 16px;
 }
 
 .card {
@@ -37,6 +37,7 @@ body {
   width: 150px;
   flex: 0 1 200px;
   justify-content: flex-end;
+  padding: 48px;
   
 }
 
@@ -75,4 +76,8 @@ a, a:visited {
   text-decoration: none;
   font-size: 24px;
   color: white;
+}
+
+li {
+  padding-bottom: 16px;
 }
