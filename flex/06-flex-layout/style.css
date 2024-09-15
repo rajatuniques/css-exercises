@@ -47,6 +47,11 @@ a:visited {
   color: grey;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 .header,
 .footer {
   display: flex;
@@ -55,18 +60,11 @@ a:visited {
 }
 
 .content {
+  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 89vh;
-  
-}
-
-.container {
-  flex: 1 1 auto;
-  display: flex;
   flex-direction: column;
-  align-items: center;
   gap: 16px;
 }
 
