@@ -51,8 +51,8 @@ body{
 .card-box {
   display: flex;
   flex-wrap: wrap;
-  align-items: stretch;
-  align-content: stretch;
+  gap: 16px;
+  padding: 16px;
 }
 
 .footer {
