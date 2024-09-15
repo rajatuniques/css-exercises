@@ -37,7 +37,7 @@ body {
   width: 150px;
   flex: 0 1 200px;
   justify-content: flex-end;
-  padding: 48px;
+  padding: 16px;
   
 }
 
@@ -52,7 +52,7 @@ body{
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
-  padding: 16px;
+  padding: 48px;
 }
 
 .footer {
