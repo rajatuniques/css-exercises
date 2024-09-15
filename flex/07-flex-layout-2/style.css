@@ -24,6 +24,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: 1;
   
 }
 
@@ -42,6 +43,7 @@ body{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  align-items: space-between;
 }
 
 .card-box {
@@ -56,4 +58,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.main-content {
+  flex: 1;
 }
